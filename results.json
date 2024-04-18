@@ -1,0 +1,32 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_lm": {
+    "english_2_gram_length": 749,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
+  },
+  "test_eval": {
+    "en_en": 27.30288808509084,
+    "en_fr": 60.062644904192716,
+    "en_tl": 73.25846085766145,
+    "en_nl": 63.4933237895096
+  },
+  "test_match": {
+    "en_en_3": 9.010937572017376,
+    "en_tl_3": 31.530288309104126,
+    "en_nl_3": 31.733707865096147
+  },
+  "test_generate": {
+{'english_1_gram': 'IRRRRRRRRRRRRRRRRRRR',
+ 'english_2_gram': 'I amoulpeginShmee bi',
+ 'english_3_gram': 'I amit: Lynmkm ways.',
+ 'english_4_gram': 'I Love gifts @OndMad',
+ 'spanish_2_gram': 'Soycalíodenyegucosie',
+ 'spanish_3_gram': 'Soy orbeᨒᨐᨐ@pue Mara',
+ 'french_2_gram': 'Je suis:/opapropades',
+ 'french_3_gram': 'Je suis tuneᨒᨐᨐLa @M'}
+}
+}
